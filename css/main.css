@@ -1,0 +1,181 @@
+header{
+	width:100%;
+	height:cover;
+	color:white;
+	margin-bottom: 8px;
+}
+header h4{
+	text-decoration: none;
+	//font-weight: bold;
+}
+header i{
+	padding-right:10px;
+}
+.navbar-brand{
+	word-spacing: 1px;
+
+}
+.navbar{
+	margin:0;
+	
+}
+.navbar a{
+font-size: 18px;
+}
+
+#about{
+	padding-top: 30px;
+}
+#about h2{
+	text-decoration: none;
+	color:white;
+	text-align: center;
+	margin-bottom: 30px;
+	font-size: 30px;
+}
+#about p{
+	text-align: center;
+	color:white;
+	line-height: 20px;
+	margin-bottom: 40px;
+
+}
+
+#team{
+	padding-top: 20px;
+}
+#team h3{
+	text-decoration: none;
+	color:white;
+	text-align: center;
+	margin-bottom: 30px;
+	font-size: 30px;
+	
+}
+.card{
+	margin-right: 5px;
+	margin-top: 30px;
+	margin-left: 5px;
+	margin-bottom: 20px;
+	padding: 0 15px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1.5);
+}
+.card img{
+	height:100px;
+	width:100px;
+	//margin-top:10px;
+	border-radius: 50%;
+
+}
+.card-body{
+	padding:20px;
+	text-align: center;
+}
+.card-title{
+	color:grey;
+	font-weight: bold;
+}
+
+.card a{
+	border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: darkgrey;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+
+}
+.card-text{
+	color:white;
+}
+.card:hover{
+	background-color: white;
+}
+#service{
+	padding-top: 10px;
+	//height:500px;
+
+}
+#service h3{
+	text-decoration: none;
+	color:white;
+	text-align: center;
+	margin-bottom: 20px;
+	font-size: 30px;
+}
+#contact{
+	padding-top: 20px;
+}
+#contact h3{
+	text-align: center;
+}
+#contact p{
+ text-align: center;
+ font-size: 20px;
+ color:white;
+}
+/*contact*/
+.contact{
+	padding:50px 0px 80px;
+	text-align: center;
+
+}
+
+.contact .input-group{
+	margin-top:25px;
+	margin-bottom: 10px;
+
+
+}
+.contact.form-control{
+	border-radius: 0 !important;
+
+}
+.contact span{
+	border-radius: 0 !important;
+}
+.contact .btn{
+	border-radius:0;
+	width:100%;
+	font-size: 20px;
+	background-color: #f08080;
+	color:#fff;
+}
+.contact .btn:hover{
+	background-color: #a85959 !important;
+	color:#fff !important;
+}
+
+/* footer*/
+.footer{
+	padding: 30px;
+	color:#cccccc;
+	//background-color: #222223;
+
+}
+.footer .social{
+	font-size:20px;
+	height:30px;
+	width:30px;
+	text-align:center;
+	padding:5px;
+	border-radius: 50%;
+	margin-right: 5px;
+	margin-bottom: :10px;
+
+}
+.footer h4{
+	font-size: 20px;
+	color:blue;
+}
+.footer i{
+	margin-right: 4px;
+}
+.footer a{
+	 text-decoration: none;
+   	font-size: 18px;
+	color:white;
+}
